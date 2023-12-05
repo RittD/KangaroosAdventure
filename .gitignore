@@ -73,4 +73,5 @@ crashlytics-build.properties
 
 
 Images/Screenshots/key_kangaroo.png
-KangaroosAdventure.zip
+*.zip
+Library

@@ -1,0 +1,2 @@
+Light: a87b4a  FFBB70
+Dark: 5e3f17 C98631
